@@ -270,7 +270,7 @@
                     <p class="card-text">Andy Weir</p>
                     <div>
                       <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                      <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                      <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                     </div>
                   </div>
                 </div>
@@ -286,7 +286,7 @@
                     <p class="card-text">Suzanne Collins</p>
                     <div>
                       <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                      <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                      <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                     </div>
                   </div>
                 </div>
@@ -302,7 +302,7 @@
                       <p class="card-text">Veronica Roth</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -318,7 +318,7 @@
                       <p class="card-text">Andy Weir</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -334,7 +334,7 @@
                       <p class="card-text">John</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -350,7 +350,7 @@
                       <p class="card-text">Andy Weir</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -366,7 +366,7 @@
                     <p class="card-text">J.K.Rowling</p>
                     <div>
                       <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                      <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                      <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                     </div>
                   </div>
                 </div>
@@ -382,7 +382,7 @@
                       <p class="card-text">Andy Weir</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -398,7 +398,7 @@
                       <p class="card-text">Weir</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -414,7 +414,7 @@
                       <p class="card-text">George Martin</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -430,7 +430,7 @@
                       <p class="card-text">Molly Green</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -446,7 +446,7 @@
                       <p class="card-text">Michelle Frances</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -462,7 +462,7 @@
                       <p class="card-text">Andy Weir</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -478,7 +478,7 @@
                       <p class="card-text">Andy</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -494,7 +494,7 @@
                       <p class="card-text">Pet Sematary</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -510,7 +510,7 @@
                     <p class="card-text">Andy Weir</p>
                     <div>
                       <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                      <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                      <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                     </div>
                   </div>
                 </div>
@@ -526,7 +526,7 @@
                       <p class="card-text">Nevill</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -542,7 +542,7 @@
                       <p class="card-text">Bram Stoker</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -558,7 +558,7 @@
                       <p class="card-text">Lovis</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -574,7 +574,7 @@
                       <p class="card-text">Dan Petrosini</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -590,7 +590,7 @@
                       <p class="card-text">Roger</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -606,7 +606,7 @@
                       <p class="card-text">Peter Swanson</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -622,7 +622,7 @@
                       <p class="card-text">Karin Slaughter</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -638,7 +638,7 @@
                       <p class="card-text">Robert bryndza</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>

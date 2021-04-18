@@ -1,0 +1,106 @@
+*{
+    overflow-x: hidden;
+    padding: 0;
+    margin: 0;
+}
+.navbar-nav .nav-link{
+    color: #000 !important;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px !important;
+}
+.navbar-nav .nav-link:hover{
+    color: #fff !important;
+    background-color: blueviolet;
+    border-radius: 4px !important;
+}
+.navbar-brand{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+    position: fixed !important;
+    box-shadow: 0 4px 6px -6px black !important;
+    width: 100% !important;
+    z-index: 999 !important;
+    background-color: #fff !important;
+}
+.search-box{
+    margin-left: 50%;
+}
+.search-box input{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 2px solid lightgrey;
+    color: lightgrey;
+    font-size: 14px;
+    padding: 5px;
+    transition: ease 0.2s;
+}
+.search-box button{
+    color: #fff;
+    background-color: blueviolet;
+    border-radius: 50%;
+    border: 0;
+    padding: 5px;
+    width: 40px;
+}
+.search-box input:focus{
+    outline: none;
+    border-bottom: 2px solid blueviolet !important;
+}
+.search-box button:focus{
+    outline: none;
+}
+.carousel{
+    margin-top: 4.3%;
+}
+.myitems{
+    display: flex !important;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+}
+.myitems img{
+    width: 900px;
+    height: 500px;
+    margin-bottom: 10px;
+}
+.para{
+    padding-top: 40px;
+    text-align: center;
+}
+.para h1{
+    overflow: hidden !important;
+    padding-left: 40px;
+    color: #fff;
+}
+.para p{
+    padding: 40px;
+    color: #fff;
+    font-size: 20px;
+}
+.mycards{
+    margin-left: 12%;
+}
+.cat{
+    position: absolute;
+    padding-top: 20px;
+    padding-left: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.cat li{
+    cursor: pointer;
+    margin-top: 20px;
+    padding: 10px;
+}
+.cat li:hover{
+    background-color: #DCDCDC;
+    padding: 10px;
+    border-radius: 4px;
+}
+.cat a{
+    text-decoration: none;
+    color: #787878;
+}

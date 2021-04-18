@@ -236,7 +236,7 @@
                     <p class="card-text">J.K.Rowling</p>
                     <div>
                       <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                      <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                      <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                     </div>
                   </div>
                 </div>
@@ -252,7 +252,7 @@
                       <p class="card-text">Andy Weir</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -268,7 +268,7 @@
                       <p class="card-text">Weir</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -284,7 +284,7 @@
                       <p class="card-text">George Martin</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -300,7 +300,7 @@
                       <p class="card-text">Molly Green</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -316,7 +316,7 @@
                       <p class="card-text">Michelle Frances</p>
                       <div>
                         <a href="#" class="btn btn-warning rounded-pill">Know More</a>
-                        <a href="#" class="btn btn-warning rounded-pill">Add To Cart</a>
+                        <a href="#" class="btn btn-warning rounded-pill" id="sub">Subscribe</a>
                       </div>
                     </div>
                   </div>
@@ -327,7 +327,7 @@
         </section>
         
         
-        <script src="" async defer></script>
+        <script src="../js/common.js" async defer></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>

@@ -131,9 +131,6 @@
                             <li class="nav-item">
                               <a class="nav-link" href="../php/signlog.php">Login</a>
                             </li>
-                            <li class="nav-item">
-                              <a class="nav-link" href="#">Go To Cart(0)</a>
-                            </li>
                         </ul>
                         <div class="search-box">
                             <input type="search" placeholder="Search Books"/>
